@@ -1,11 +1,11 @@
 ## Hi there 👋, I am Mabuchi
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy"/>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy"/> <img src = "https://github-readme-stats.vercel.app/api?username=BuchiNy&show_icons=true&theme=synthwave"/>
 
 - ⚡ Fun fact: I like anime
 - 📫 How to reach me: mabuchi.mn@gmail.com
 - 🌱 I’m currently learning about DevOps
 
-<img src = "https://github-readme-stats.vercel.app/api?username=BuchiNy&show_icons=true&theme=synthwave"/>
+
   
   
 <!--
