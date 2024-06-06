@@ -1,7 +1,7 @@
 ## Hi there 👋
-##- ⚡ Fun fact: I like anime
-## - 📫 How to reach me: mabuchi.mn@gmail.com
-## - 🌱 I’m currently learning about DevOps
+- ⚡ Fun fact: I like anime
+- 📫 How to reach me: mabuchi.mn@gmail.com
+- 🌱 I’m currently learning about DevOps
 
 <!--
 **BuchiNy/BuchiNy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
