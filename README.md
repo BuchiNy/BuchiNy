@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Mabuchi
 - ⚡ Fun fact: I like anime
 - 📫 How to reach me: mabuchi.mn@gmail.com
 - 🌱 I’m currently learning about DevOps
+
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuchiNy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BuchiNy/BuchiNy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
