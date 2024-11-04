@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I like anime
 - 📫 How to reach me: mabuchi.mn@gmail.com
-- 🌱 I’m currently learning about DevOps
+- 🌱 Jack of all several Trades, a master of none but very versatile
 
 
   
