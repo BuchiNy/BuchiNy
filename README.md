@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact: I like anime
 - 📫 How to reach me: mabuchi.mn@gmail.com
-- 🌱 Jack of all several Trades, a master of none but very versatile
+- 🌱 Jack of several Trades, a master of none but very versatile
 
 
   
