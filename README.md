@@ -12,19 +12,19 @@ I'm a passionate and adaptable Software Developer with a strong foundation in Ja
 
 📚 Academic: BSc in Computer Science
 
-🧩 Fun fact: I enjoy anime and continuously explore new tech for fun and growth
+🧩 Fun fact: I enjoy anime
 <hr></hr>
 
 <h2>📫 Let's Connect</h2>
 📧 Email: mabuchi.mn@gmail.com
 
-💼 LinkedIn: linkedin.com/in/mabuchi-nyirenda
+💼 LinkedIn: www.linkedin.com/in/mabuchi-nyirenda-81443a193
 
 <hr/>
 
   
   
-## "Jack of all trades, master of none — but oftentimes better than master of one."
+## "Jack of all trades, master of none — but oftentimes better than a master of one."
 
 <!--
 **BuchiNy/BuchiNy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
