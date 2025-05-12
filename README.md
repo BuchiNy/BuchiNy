@@ -8,7 +8,7 @@ I'm a passionate and adaptable Software Developer with a strong foundation in Ja
 
 🛠 Tech Stack: Next.js · React · TypeScript · Tailwind CSS · Prisma · NX · PostgreSQL
 
-🧠 Always learning: DevOps, Salesforce JavaScript Developer I
+🧠 Always learning: DevOps
 
 📚 Academic: BSc in Computer Science
 
