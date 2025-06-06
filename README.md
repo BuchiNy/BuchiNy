@@ -1,4 +1,5 @@
-## 🧠 Enter the Code Matrix: I’m Mabuchi Nyirenda
+## [![committers.top badge](https://user-badge.committers.top/malawi/BuchiNy.svg)](https://user-badge.committers.top/malawi/BuchiNy)
+## 🧠 Enter the Code Matrix: I’m Mabuchi Nyirenda  
 
 Just a developer navigating the digital world — building sleek Web Apps, functional Mobile Apps, and occasionally tinkering in the DevOps void.  
 I shift between stacks like jumping timelines, always curious, always debugging, always building.
