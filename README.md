@@ -1,10 +1,9 @@
-## In country rank approx.... [![committers.top badge](https://user-badge.committers.top/malawi/BuchiNy.svg)](https://user-badge.committers.top/malawi/BuchiNy)
-## 🧠 Enter the Code Matrix: I’m Mabuchi Nyirenda  
+## Hello I’m Mabuchi Nyirenda
 
-Just a developer navigating the digital world — building sleek Web Apps, functional Mobile Apps, and occasionally tinkering in the DevOps void.  
+Just a developer navigating the digital world — building stuff like Web Apps, functional Mobile Apps, and occasionally tinkering in the DevOps void.  
 I shift between stacks like jumping timelines, always curious, always debugging, always building.
 
-> "I know frameworks... lots of frameworks."
+> "I know a lot of things and nothing at the same time."
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy&layout=compact&theme=matrix" />
@@ -16,7 +15,7 @@ I shift between stacks like jumping timelines, always curious, always debugging,
 ### 🚀 System Overview
 
 🧠 **Education**: BSc in Computer Science  
-📦 **Current Modules**: Web Dev • Mobile Dev • DevOps Trials  
+📦 **Current knowledge**: Web Dev • Mobile Dev • DevOps
 👾 **Easter Egg**: Anime powers my runtime.
 
 ---
@@ -27,5 +26,3 @@ I shift between stacks like jumping timelines, always curious, always debugging,
 💼 LinkedIn: [linkedin.com/in/mabuchi-nyirenda-81443a193](https://www.linkedin.com/in/mabuchi-nyirenda-81443a193)
 
 ---
-
-> _"Jack of all trades, master of none — but oftentimes better than a master of one."_
