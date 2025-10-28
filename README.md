@@ -11,7 +11,7 @@ Currently exploring the intersection of **health informatics**, **cloud**, and *
 
 - 🎓 **Education**: BSc in Computer Science
 - 💼 **Experience**:
-  - **Application Developer Intern @ Global Health Informatics Institute (GHII)** — building Flutter apps integrated with AWS and ObjectBox for Health Professionals
+  - **Application Developer @ Global Health Informatics Institute (GHII)** — building apps with Flutter, Kotlin, Typescript, integrated with AWS and ObjectBox for Health Professionals
   - **Software Developer Intern @ Werkix** — contributed to an AI chat platform using Next.js, NX Monorepo, and Prisma ORM.  
   - **Software Engineering Intern @ DTree International** — worked on Android FHIR implementations and mapping languages.
 - 🧠 **Tech Stack**:
