@@ -20,6 +20,9 @@ Currently exploring the intersection of **health informatics**, **cloud**, and *
   - **Backend / Infra**: Node.js, NX, AWS, Firebase
   - **Other Tools**: Jira, Git, Retool, Docker  
 - ⚡ **Current Focus**: Building smarter healthcare tools and refining app architectures with **clean patterns**, **dependency injection**, and **sync logic that just works.**
+- 💻 **Top Languages**:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy&layout=compact&langs_count=10)
 
 ---
 
