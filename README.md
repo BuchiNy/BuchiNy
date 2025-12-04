@@ -1,25 +1,12 @@
-## 👋 Hello, I’m Mabuchi Nyirenda
-
-A Software Developer passionate about crafting meaningful digital experiences — from **FHIR-powered health apps** to **scalable web systems** and **clean mobile experiences**.  
-Currently exploring the intersection of **health informatics**, **cloud**, and **developer tooling**, building solutions that make tech work where it matters most.
-
 > “I know a lot of things and nothing at the same time.”
 
 ---
 
 ### 🧩 System Overview
-
-- 🎓 **Education**: BSc in Computer Science
-- 💼 **Experience**:
-  - **Application Developer @ Global Health Informatics Institute (GHII)** — building apps with Flutter, Kotlin, Typescript, integrated with AWS and ObjectBox for Health Professionals
-  - **Software Developer Intern @ Werkix** — contributed to an AI chat platform using Next.js, NX Monorepo, and Prisma ORM.  
-  - **Software Engineering Intern @ DTree International** — worked on Android FHIR implementations and mapping languages.
-- 🧠 **Tech Stack**:
   - **Mobile**: Flutter, Kotlin, ObjectBox, BLoC  
   - **Web**: Next.js, TypeScript, Fastify, Prisma, TailwindCSS  
-  - **Backend / Infra**: Node.js, NX, AWS, Firebase
-  - **Other Tools**: Jira, Git, Retool, Docker  
-- ⚡ **Current Focus**: Building smarter healthcare tools and refining app architectures with **clean patterns**, **dependency injection**, and **sync logic that just works.**
+  - **Backend / Infra**: Node.js, NX monorepo, AWS, Firebase, Turborepo
+  - **Other Tools**: Git, Docker 
 - 💻 **Top Languages**:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy&layout=compact&langs_count=10)
@@ -31,7 +18,6 @@ Currently exploring the intersection of **health informatics**, **cloud**, and *
 - 💻 I shift between stacks like jumping timelines — debugging, refactoring, and always building.  
 - ☕ Code runs on caffeine and curiosity.  
 - 👾 Anime fuels my runtime (seriously).  
-- 🌍 From Malawi, building solutions for global impact.
 
 ---
 
