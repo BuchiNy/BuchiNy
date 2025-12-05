@@ -7,9 +7,6 @@
   - **Web**: Next.js, TypeScript, Fastify, Prisma, TailwindCSS  
   - **Backend / Infra**: Node.js, NX monorepo, AWS, Firebase, Turborepo
   - **Other Tools**: Git, Docker 
-- 💻 **Top Languages**:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BuchiNy&layout=compact&langs_count=10)
 
 ---
 
