@@ -5,7 +5,7 @@
 ### 🧩 System Overview
   - **Mobile**: Flutter, Kotlin, ObjectBox, BLoC  
   - **Web**: Next.js, TypeScript, Fastify, Prisma, TailwindCSS  
-  - **Backend / Infra**: Node.js, NX monorepo, AWS, Firebase, Turborepo
+  - **Backend / Infra**: Node.js, Spring Boot, NX monorepo, AWS, Firebase, Turborepo
   - **Other Tools**: Git, Docker 
 
 ---
